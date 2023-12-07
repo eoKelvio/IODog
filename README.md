@@ -61,11 +61,11 @@ O JSON retornado por este link lhe dá as informações de quantidade de porçõ
     
   - GET
     
-      "http://eokelvio.pythonanywhere.com/hours/1/"
+          "http://eokelvio.pythonanywhere.com/hours/1/"
     
   - PUT
     
-      "http://eokelvio.pythonanywhere.com/hours/1/"
+          "http://eokelvio.pythonanywhere.com/hours/1/"
     
       Entrada:
       
@@ -161,11 +161,11 @@ O JSON retornado por este link lhe dá as informações de quantidade de porçõ
 
   - GET
 
-      "http://eokelvio.pythonanywhere.com/feedTimes/1/"
+          "http://eokelvio.pythonanywhere.com/feedTimes/1/"
 
   - PUT
 
-      "http://eokelvio.pythonanywhere.com/feedTimes/1/"
+          "http://eokelvio.pythonanywhere.com/feedTimes/1/"
 
       Entrada:
 
