@@ -41,7 +41,7 @@ O JSON retornado por este link lhe dá as informações de quantidade de porçõ
 ## Exemplos de Uso<br><br>
 
 
-"hours": "http://eokelvio.pythonanywhere.com/hours/"
+### "hours": "http://eokelvio.pythonanywhere.com/hours/"
   
   - POST
      
@@ -82,7 +82,7 @@ O JSON retornado por este link lhe dá as informações de quantidade de porçõ
           }
     
 <br><br>
-"log": "http://eokelvio.pythonanywhere.com/log/"<br><br>
+### "log": "http://eokelvio.pythonanywhere.com/log/"<br><br>
 
   - POST
   
@@ -135,7 +135,7 @@ O JSON retornado por este link lhe dá as informações de quantidade de porçõ
             ]
 
 <br><br>
-"feedTimes": "http://eokelvio.pythonanywhere.com/feedTimes/"<br><br>
+### "feedTimes": "http://eokelvio.pythonanywhere.com/feedTimes/"<br><br>
 
   - POST
   
