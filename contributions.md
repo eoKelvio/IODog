@@ -9,3 +9,6 @@ Responsável por criar o projeto inicial, e um dos responsáveis para criar os M
 ## Teodoro
 
 Responsável pela parte lógica da API, aplicado em alguns serializers e views.
+
+## Vinicius
+Responsável pela criação do esqueleto da API.
